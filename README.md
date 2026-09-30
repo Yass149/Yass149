@@ -15,3 +15,5 @@ I also work on statistical experimentation, forecasting, computer vision, and da
 Python · PyTorch · scikit-learn · pandas · FastAPI · Streamlit · Docker · GitHub Actions
 
 See each project README for setup, evaluation, and current scope.
+
+A fourth project on **[A/B testing](https://github.com/Yass149/ab-test-cookie-cats)** shows how I check experiment validity and quantify uncertainty before making a product decision.

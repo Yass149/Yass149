@@ -6,9 +6,9 @@ My recent work is increasingly focused on **robot learning, motion retargeting, 
 
 ## Selected work
 
-- **[Phone2Panda](YOUR_PHONE2PANDA_LINK)** — Human-to-robot motion retargeting from ordinary phone video to a simulated Franka Panda. Built as part of my Humanoid Robot Learning internship application, with demonstration collection, trajectory calibration, DMP-based motion generation, GRU tracking, collision checks, and controlled evaluation.
+- **[Phone2Panda](https://github.com/Yass149/phone2panda)** — Human-to-robot motion retargeting from ordinary phone video to a simulated Franka Panda. Built as part of my Humanoid Robot Learning internship application, with demonstration collection, trajectory calibration, DMP-based motion generation, GRU tracking, collision checks, and controlled evaluation.
 
-- **[Gym2Humanoid](YOUR_GYM2HUMANOID_LINK)** — Work in progress exploring human exercise motion retargeting to a simulated humanoid. Uses CMU motion-capture data, joint trajectory extraction, MuJoCo simulation, and quantitative motion evaluation.
+- **[Gym2Humanoid](https://github.com/Yass149/Gym2Humanoid)** — Work in progress exploring human exercise motion retargeting to a simulated humanoid. Uses CMU motion-capture data, joint trajectory extraction, MuJoCo simulation, and quantitative motion evaluation.
 
 - **[Carbon Window Agent](https://github.com/Yass149/carbon-window-agent)** — A tested carbon-aware scheduling system for flexible electricity use in Great Britain. Includes a local API, Streamlit interface, transparent tool traces, deterministic calculations, and automated tests.
 

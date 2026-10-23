@@ -2,9 +2,7 @@
 
 **Data scientist · applied machine learning · Python engineering**
 
-I turn data questions into tested decisions and tools people can inspect. I look beyond a headline model score: I check the comparison, the failure cases, and whether the result is useful in practice.
-
-I'm looking for **data scientist and applied ML roles**. [Email me](mailto:yassine.malal@gmail.com).
+[Email me](mailto:yassine.malal@gmail.com)
 
 ## Evidence from my work
 
